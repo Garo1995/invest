@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="ru">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="icon" href="img/invest_home_icon.png" type="image/gif" sizes="16x16">
+
+	<title>investtreid</title>
+	<!-- ========== HYML5-css-styles ========== -->
+	<link rel="stylesheet" href="css/jquery.fullPage.css">
+	<link rel="stylesheet" href="fonts/fonts.css">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/media.css">
+</head>
+
+<body>
+	<svg style="display: none;">
+		<defs>
+			<path id="deco3" d="M 77.03,75.72 C 147.9,0.2308 309,13.37 387.6,80.44 471.8,152.4 517.2,325.6 442.9,407.5 350.2,509.8 43.77,516.2 29.67,378.8 20.48,289.3 80.25,270.4 87.78,212 93.61,166.8 45.85,108.9 77.03,75.72 Z" />
+			<path id="deco2" d="M 119.8,69.41 C 213.5,18.01 367.2,-1.306 440.4,76.58 482.9,121.9 435.3,200.8 432.9,262.9 431.1,310.6 461.3,372.1 427.7,406 342.4,492 158.3,499.3 64.62,422.5 10.09,377.8 18.76,282.6 32.51,213.5 43.46,158.4 70.61,96.36 119.8,69.41 Z"></path>
+		</defs>
+	</svg>
+
+	<!-- ========== HTML5-cotainer start ========== -->
+	<div class="" id="fullpage">
+		<!--  ========== HTML-5 section  1  Вкладывайте  деньги start  ========== -->
+		<section class="scroller bg-1">
+			
+		</section>
+		<!--  ========== HTML-5 section 1 Вкладывайте  деньги end ========== -->
+
+		<!-- ========== HTML-5 section 2 Надежные инвестиции в  экономику России start ========== -->
+		<section class="scroller">
+		
+		</section>
+		<!-- ========== HTML-5 section 2 Надежные инвестиции в  экономику России end ========== -->
+
+
+		<!-- ========== HTML-5 section 3 Тройная гарантия сохранности  и доходности инвестиций  start ========== -->
+		<section class="scroller">
+
+		</section>
+		<!-- ========== HTML-5 section 3 Тройная гарантия сохранности  и доходности инвестиций  end ========== -->
+
+		<!-- ========== HTML-5 section 4 Как работает наша компания start ========== -->
+		<section class="scroller">
+			
+		</section>
+		<!-- ========== HTML-5 section 4 Как работает наша компания end ========== -->
+
+	
+
+	</div>
+
+
+	<!-- ========== mouse-move doun  -->
+	
+	<!-- JavaScript -->
+	<script src="js/jquery-3.2.1.min.js"></script>
+	<script src="js/jquery.fullPage.js"></script>
+	<script src="js/anime.min.js"></script>
+	<script src="js/accounting.min.js"></script>
+	<script src="js/jquery.mask.js"></script>
+	<script src="js/script.js"></script>
+
+	<script>
+		// ==================== for sqroller  and fuulpage js =====================
+
+		if (screen.width <= 768 || screen.height < 625) {
+			$('#fullpage').attr('id', '');
+		}
+		else if (screen.width > 768 || screen.height >= 625) {
+			$(".invester-container").attr("id", "fullpage");
+		}
+
+
+		$(document).ready(function () {
+			$('#fullpage').fullpage({
+				anchors: ['page_1', 'page_2', 'page_3', 'page_4', 'page_5', 'page_6', 'page_7'],
+				navigation: true,
+				navigationPosition: 'right',
+				navigationTooltips: ['Вкладывайте  деньги', 'Надежные инвестиции', ' Тройная гарантия', 'Как работает наша компания ', 'Инвест Трейд', 'Почему Инвест Трейд', 'Безрисковая стратегия'],
+				afterLoad: function (anchorLink, index) {
+					var pagenext = $('#pagenext'), totalCount = 7;
+					if (index == totalCount) {
+						pagenext.fadeOut(400);
+					} else {
+						pagenext.fadeIn(400);
+					}
+				},
+			});
+		});
+
+		$('#pagenext').click(function (e) {
+			$.fn.fullpage.moveSectionDown(); e.preventDefault();
+		});
+
+	</script>
+
+</body>
+
+</html>

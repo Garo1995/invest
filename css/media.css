@@ -1,0 +1,1521 @@
+@media (max-height: 1000px) {
+    /* section 2 Надежные инвестиции в  экономику России */
+    .overflow-x-add {
+        height: 380px;
+        overflow: auto;
+        z-index: 7;
+    }
+    .overflow-cards-block {
+        max-width: 885px;
+    }
+    .overflow-x-add .reliable-investment-maney-cards-block {
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+        display: -webkit-inline-box;
+        display: -ms-inline-flexbox;
+        display: inline-flex;
+    }
+    .overflow-x-add::-webkit-scrollbar {
+        width: 10px;
+        height: 20px;
+        border-radius: 8px;
+    }
+    .overflow-x-add::-webkit-scrollbar-thumb {
+        background-color: rgb(36, 43, 184);
+        background-image: url(../img/page-parsent/horizontal-resize-option.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 20px;
+        border-radius: 10px;
+        cursor: ew-resize !important;
+    }
+    .reliable-investment-range-chacked {
+        margin-top: 30px;
+    }
+    /* section 4 Как работает наша компания */
+    .our_company-tittle h2 {
+        margin-bottom: 0;
+    }
+    /* HTML-5 section 5 Наша команда start  */
+    .overflow-comands {
+        height: 400px;
+    }
+    /* ===============================================  Инвестиционные прогрмаммы page  section ===============================================  */
+    /* ========== HTML-5 section 3 Алгоритм создания высокого дохода  start ==========  */
+    .algoritm-block{
+        max-width: 800px;
+        width: 100%;
+        margin: 25px 0;
+    }
+    .algoritm-block:first-child{
+        margin-top: 0;
+    }
+    .algoritm-block:last-child{
+        margin-bottom: 0;
+    }
+    .about-algoritm:nth-child(2){
+        display: flex;
+       
+        padding-right: 0;
+    }
+    .ovrfl-algoritms{
+       height: 290px;
+       max-width: 800px;
+        overflow: auto;
+        margin: 0 auto;
+
+    }
+    .algoritm-cnt{
+        justify-content: center;
+        align-items: center;
+    }
+    .ovrfl-algoritms::-webkit-scrollbar {
+        width: 10px;
+        height: 20px;
+        border-radius: 8px;
+    }
+    .ovrfl-algoritms::-webkit-scrollbar-thumb {
+        background-color: rgb(36, 43, 184);
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 20px;
+        border-radius: 10px;
+        cursor: ew-resize !important;
+    }
+}
+
+@media(max-height:900px), (max-width:1550px) {
+    /* section 3 Тройная гарантия сохранности  и доходности инвестиций */
+    .guarantee_section-tittle h2 {
+        font-size: 30px;
+    }
+    .guarantee_section-tittle p {
+        font-size: 20px;
+    }
+    .guarantee_section_inner {
+        margin-top: 10px;
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+    }
+    .guarantee_block_2 {
+        max-width: 520px;
+    }
+    .guarantee_block_1 {
+        margin-bottom: 15px;
+    }
+    .guarantee_block_1 h3, .guarantee_block_2 h3, .guarantee_block_3 h3 {
+        margin-bottom: 5px;
+        font-size: 15px;
+    }
+}
+
+@media(max-height: 950px) {
+    /*======== Инвест Трейд - в интересах  инвесторов, в интересах страны ===========*/
+    .invest_trade_items_text_block p, .invest_trade_items_text_block h4 {
+        font-size: 16px;
+    }
+    .invest_trade_interest {
+        padding-top: 2%;
+    }
+    .invest_trade-best-tittle {
+        margin-bottom: 100px;
+    }
+    /* section 7 Безрисковая стратегия Диверсифицируемые риски  */
+    .bezrysovaya_strategy_block {
+        padding-top: 1%;
+    }
+    .bezrysovaya_strategy_cards_ul_block li {
+        margin-bottom: 0;
+    }
+    .bezrysovaya_strategy_cards_ul_block li p, .bezrysovaya_strategy-passive p {
+        margin-top: 5px;
+    }
+    /* =============================================== О нас page  ===============================================  */
+    /* ========== HTML-5 section 3 Легальность и открытость  start ==========  */
+    .about-legality {
+        margin-top: 10px;
+        margin-bottom: 15px;
+        font-size: 20px;
+    }
+    .legality-openness-license img {
+        width: 200px;
+    }
+    .legaliti-big-icon {
+        display: none;
+    }
+    /* ========== HTML-5 section 4 Надежность и безопасность start ==========  */
+    .reliability-safety-tittle {
+        margin-bottom: 20px;
+    }
+    /* ========== HTML-5 section 6 В интересах инвесторов, для пользы  России, на благо человечест start ==========  */
+    .interests-tittle {
+        font-size: 26px;
+    }
+    .interests-info {
+        margin-top: 0;
+        font-size: 20px;
+    }
+    .investors-info {
+        padding-right: 0;
+    }
+    .investors-information, .investors-parts {
+        font-size: 15px;
+    }
+    .investors-parts ul li {
+        margin: 0;
+    }
+    /* ================================ HTML5-cotainer Инвестиционные прогрмаммы page ================================   */
+    /* ========== HTML-5 section 2 Инвест Трейд: надежнее, чем дома, выгоднее чем в банке start ==========  */
+    .hopeless-gradient-1 img {
+        width: 70px;
+        ;
+    }
+}
+
+@media (max-height: 770px) {
+    /* section 4 Как работает наша компания */
+    .logo_block {
+        width: 350px;
+        height: 350px;
+    }
+    .logo_block img {
+        width: 150px;
+    }
+    .our_company_work_cards:nth-child(2), .our_company_work_cards:nth-child(3) {
+        top: 10%;
+    }
+    .our_company_work_cards:nth-child(5), .our_company_work_cards:nth-child(4) {
+        bottom: 10%;
+    }
+    .our_company_work_content_block {
+        height: auto;
+    }
+    .our_company_work_content_block {
+        max-width: 1100px;
+    }
+    /*section 5 Инвест Трейд - в интересах  инвесторов, в интересах страны*/
+    .invest_trade_interest {
+        padding-top: 1%;
+    }
+    .invest_trade_tittle h2 {
+        font-size: 30px
+    }
+    .invest_trade_items {
+        margin-bottom: 10px;
+    }
+    .section_subtitle, .section_title_in_h2 {
+        font-size: 20px;
+    }
+    /* sction 6 Почему Инвест Трейд лучше  любого банка */
+    .invest_trade-best-tittle {
+        margin-bottom: 50px;
+    }
+    #fp-nav ul li+li:before {
+        height: 47px;
+    }
+    #fp-nav ul li+li {
+        padding-top: 45px;
+    }
+    /* =============================================== О нас page  ===============================================  */
+    /*   about us   В помощь вашей  семье и бизнесу  section 1  */
+    .about-us-help-tittle {
+        margin-bottom: 10px;
+    }
+    .about-us-help-btn {
+        margin-top: 15px;
+    }
+    /* =============================================== О нас page  ===============================================  */
+    /* invest portfolio  Инвестиционный портфель section 2 */
+    .invest-portfolio-tittle {
+        margin-top: 90px;
+        margin-bottom: 0;
+    }
+    /* ================================ HTML5-cotainer Инвестиционные прогрмаммы page ================================   */
+    /* ========== HTML-5 section  1 Инвест Трейд умножьте на два! start  ========== */
+    .trade-grow-tittle h1 {
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-height: 625px) {
+    .guarantee_section-tittle {
+        text-align: left !important;
+    }
+    /* sction 6 Почему Инвест Трейд лучше  любого банка */
+    .invest_trade-best-tittle {
+        margin-bottom: 40px;
+    }
+}
+
+@media (max-width:1800px) {
+    /* =============================================== О нас page  ===============================================  */
+    /* ========== HTML-5 section 3 Легальность и открытость  start ==========  */
+    .legality-overflow {
+        max-width: 900px;
+        width: 100%;
+        overflow: auto;
+        padding-bottom: 15px;
+        margin: 0 auto;
+    }
+    .legality-overflow::-webkit-scrollbar {
+        width: 10px;
+        height: 20px;;
+        border-radius: 8px;
+    }
+   
+    .legality-overflow::-webkit-scrollbar-thumb {
+        background-color: rgb(36, 43, 184);
+        background-image: url(../img/page-parsent/horizontal-resize-option.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 10px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 1700px) {
+    /* header media */
+    .invest-nav {
+        max-width: 730px;
+    }
+    .invest-nav ul li {
+        padding: 0 15px
+    }
+    /* section 2 Надежные инвестиции в  экономику */
+    .overflow-cards-block {
+        max-width: 600px;
+    }
+    .reliable-investment {
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+    }
+    .reliable-investment-info-range {
+        margin-right: 50px;
+    }
+    .img-ps-2 {
+        top: 9%;
+        left: 82%;
+    }
+    .img-ps-4 {
+        left: 79%;
+        top: 67%;
+    }
+    .img-ps-5 {
+        left: 65%;
+        top: 100%;
+    }
+    .overflow-x-add {
+        height: 380px;
+        overflow: auto;
+        z-index: 7;
+    }
+    .overflow-x-add .reliable-investment-maney-cards-block {
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+        display: -webkit-inline-box;
+        display: -ms-inline-flexbox;
+        display: inline-flex;
+    }
+    .overflow-x-add::-webkit-scrollbar {
+        width: 10px;
+        border-radius: 8px;
+    }
+    .overflow-x-add::-webkit-scrollbar-thumb {
+        background-color: rgb(36, 43, 184);
+        background-image: url(../img/page-parsent/horizontal-resize-option.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 10px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    .reliable-investment-range-chacked {
+        margin-top: 30px;
+    }
+    /* =============================================== О нас page  ===============================================  */
+    /* ========== HTML-5 section 7 Безрисковая стратегия Диверсифицируемые риски start ==========  */
+    .bezrysovaya_strategy_cards:first-child {
+        margin-right: 10%;
+    }
+}
+
+@media (max-width: 1550px) {
+    /* header media */
+    .invest-nav ul li a {
+        font-size: 14px;
+    }
+    .tell-number a {
+        font-size: 15px;
+    }
+    .invest-nav {
+        max-width: 615px;
+    }
+    header, footer {
+        min-height: 80px;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+    .invest-nav ul li {
+        padding: 0 10px;
+    }
+    .invest-nav {
+        max-width: 550px;
+    }
+    .call-and-sign {
+        max-width: 520px;
+    }
+    #fp-nav ul li+li:before {
+        height: 47px;
+    }
+    #fp-nav ul li+li {
+        padding-top: 45px;
+    }
+    .sign-btn, .call-btn {
+        height: 38px;
+        width: 140px;
+    }
+    /* section 4 Как работает наша компания */
+    .our_company-tittle h2 {
+        margin-bottom: 0;
+    }
+    .our_company_work_content_block {
+        max-width: 950px;
+    }
+    /* =============================================== О нас page  ===============================================  */
+    /* HTML-5 section 5 Наша команда start  */
+    .comands-cnt {
+        max-width: 600pFx;
+        min-height: 750px;
+        margin: 0 auto;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+    .overflow-comands {
+        max-width: 600px;
+    }
+}
+
+@media (max-width:1330px) {
+    /* section 2 Надежные инвестиции в  экономику */
+    .overflow-cards-block {
+        max-width: 300px;
+    }
+}
+
+@media (max-width: 1310px) {
+    /* header */
+    .header-container {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+    .invest-logo {
+        max-width: 260px;
+        ;
+    }
+    /* header  mobaile */
+    .mySidenav {
+        overflow-x: hidden;
+        height: 0;
+        background-color: #EEEEEE;
+        width: 100%;
+        z-index: 9999;
+        padding: 0;
+        -webkit-transition: .3s;
+        transition: .3s;
+        max-width: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+    .mySidenav ul {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .mySidenav ul li {
+        opacity: 0;
+        visibility: hidden;
+        -webkit-transform: translateY(-15%);
+        transform: translateY(-15%);
+        -webkit-transition: 0.2s;
+        transition: 0.2s;
+    }
+    .mobile-menu {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+    .invest-nav ul li a {
+        font-size: 18px;
+    }
+    .mySidenav ul li {
+        padding: 15px 0;
+    }
+    .tooltip, .closer {
+        display: block;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+    #fp-nav {
+        z-index: 1;
+    }
+    /* footer media  */
+    footer {
+        z-index: 1;
+    }
+    /* section 6 Безрисковая стратегия Диверсифицируемые риски */
+    .bezrysovaya_strategy_cards {
+        width: 30%;
+    }
+    .bezrysovaya_strategy_block {
+        padding-top: 15px;
+    }
+    .bezrysovaya_strategy_cards_ul_block li {
+        margin-bottom: 15px
+    }
+    .bezrysovaya_strategy_cards:first-child {
+        margin-right: 3%;
+    }
+    .bezrysovaya_strategy_cards {
+        width: 100%;
+        max-width: 520px;
+    }
+    .section_title {
+        font-size: 30px;
+    }
+    .invest_trade_interest_section .section_title {
+        width: 100%;
+    }
+    .invest_trade_interest {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .invest_trade_items {
+        width: 100%;
+    }
+    .invest_trade_items {
+        margin-bottom: 10px;
+    }
+}
+
+@media(max-width: 1200px) {
+    /* section 6 Почему Инвест Трейд лучше  любого банка */
+    .section_title {
+        width: 100%;
+        text-align: left;
+        position: relative;
+    }
+    .invest_trade_better {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+    }
+    .invest_trade_better_items {
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: start;
+        margin-bottom: 25px;
+    }
+    /* section 3 Тройная гарантия сохранности  и доходности инвестиций */
+    .guarantee_section-tittle h2 {
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+    .guarantee_section_inner {
+        margin-top: 15px;
+    }
+    /*section 5 Инвест Трейд - в интересах  инвесторов, в интересах страны*/
+    .invest_trade_items:nth-child(2) {
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        padding-right: 0;
+    }
+    /* =============================================== О нас page  ===============================================  */
+    /* ========== HTML-5 section 4 Надежность и безопасность start ==========  */
+    .reliability-safety-info-container {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        font-size: 14px;
+    }
+    .reliability-safety-info-right {
+        padding-right: 0;
+    }
+    .reliability-safety-info-left p:first-child {
+        margin-bottom: 15px;
+    }
+    .reliability-safety-info-right p:nth-child(2) {
+        margin: 15px 0
+    }
+    /* ========== HTML-5 section 7 Безрисковая стратегия Диверсифицируемые риски start ========== */
+    .obout-us .bezrysovaya_strategy_cards_ul_block li:last-child, .obout-us .bezrysovaya_strategy_cards_ul_block li:nth-child(2) {
+        display: none;
+    }
+    .obout-us .bezrysovaya_strategy_block {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+    .obout-us .bezrysovaya_strategy_btn {
+        margin-top: 5px;
+    }
+    .bezrysovaya_strategy-passive {
+        margin-bottom: 0
+    }
+    .obout-us .section_subtitle {
+        margin-top: 5px;
+    }
+    .obout-us .section_subtitle {
+        max-width: 500px;
+    }
+    .bezrysovaya_strategy-tittle h2 {
+        font-size: 26px;
+    }
+    /* ================================ HTML5-cotainer Инвестиционные прогрмаммы page ================================   */
+    /* ========== HTML-5 section  2 Инвест Трейд: надежнее, чем дома, выгоднее чем в банке start  ========== */
+    .hopelles-bg-big {
+        display: none;
+    }
+}
+
+@media (max-width:1045px) {
+    /* section 2 Надежные инвестиции в  экономику */
+    .reliable-investment-info-range {
+        margin-right: 20px;
+    }
+    .reliable-investment-info-tittle {
+        font-size: 20px;
+    }
+    .reliable-investment-about span {
+        font-size: 20px;
+    }
+    .reliable-investment-about p {
+        font-size: 15px;
+    }
+    .reliable-investment-info-range {
+        max-width: 355px;
+    }
+    .range-tittle, .chacked-tittle {
+        font-size: 15px;
+    }
+    .checkmark {
+        height: 30px;
+        width: 30px;
+    }
+    .checkmark:before {
+        left: 12px;
+    }
+    .checkmark:after {
+        height: 20px;
+        border-width: 0px 6px 6px 0;
+    }
+    .overflow-cards-block {
+        max-width: 300px;
+    }
+    /* section 3 Тройная гарантия сохранности  и доходности инвестиций */
+    .guarantee_section-tittle, .guarantee_section_inner {
+        max-width: 670px;
+    }
+    /*Invest Trade interests */
+    .invest_trade_items {
+        width: 100%;
+    }
+    /* footer */
+    .company {
+        max-width: 340px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+    .mouzer-dun {
+        bottom: 33px;
+    }
+    /* ========== HTML-5 section 3 Легальность и открытость  start ==========  */
+    .legality-overflow {
+        max-width: 450px;
+        margin: 0 auto
+    }
+    /* =============================================== О нас page  ===============================================  */
+    /* ========== HTML-5 section 3 Легальность и открытость  start ==========  */
+    .interests-info, .interests-tittle {
+        max-width: 670px;
+    }
+}
+
+@media (max-width: 992px) {
+    /* header media */
+    .tell-number {
+        display: none;
+    }
+    .disp-none-tell {
+        display: block;
+    }
+    .call-and-sign {
+        max-width: 340px;
+    }
+    .header-container {
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+    }
+    .call-btn {
+        display: none;
+    }
+    .call-disp-none {
+        display: block;
+        opacity: 0;
+        -webkit-transform: translateY(15%);
+        transform: translateY(15%);
+        -webkit-transition: 0.2s;
+        transition: 0.2s;
+        margin-top: 25px;
+    }
+    /*  media for section 1 Вкладывайте  деньги */
+    .logo_block {
+        display: none;
+    }
+    /* section 4 Как работает наша компания */
+    .our_company_work_cards {
+        position: relative;
+        margin: 15px auto;
+    }
+    .our_company_work_cards_content_block, .our_company_work_cards {
+        min-height: 80px;
+        height: auto;
+        padding: 5px 15px 5px 30px;
+    }
+    .our_company_work_content_block {
+        max-width: 500px;
+    }
+    .our_company_work_cards::before {
+        font-size: 35px
+    }
+    .our_company_work_cards_content_img img {
+        width: 45px;
+    }
+    .our_company_work_cards_content_text p {
+        font-size: 16px;
+    }
+    .invest_trade-best-tittle {
+        margin-bottom: 25px;
+    }
+    .word-ups {
+        width: 8px !important;
+    }
+    .word-ups:nth-child(3) {
+        left: 35px;
+        top: 8px;
+    }
+    .word-ups:nth-child(4) {
+        left: 3px;
+        top: 8px;
+    }
+    .word-ups:nth-child(5) {
+        left: 20px;
+        top: 4px;
+    }
+    .word-dolar {
+        left: 1px;
+        top: 0px;
+    }
+    .dig-maney {
+        width: 17px !important;
+        left: 28px;
+        top: -22px;
+    }
+    .dig-down {
+        width: 3px !important;
+        left: 34px;
+        top: -3px;
+    }
+    .dig-left:nth-child(4) {
+        left: 2px;
+        top: -14px;
+    }
+    .dig-left:nth-child(5) {
+        z-index: 3;
+        left: 12px;
+        top: -14px;
+    }
+    .dig-left:nth-child(6) {
+        z-index: 3;
+        left: 22px;
+        top: -14px;
+    }
+    .dig-left {
+        width: 7px !important;
+    }
+    /*section 7 Безрисковая стратегия Диверсифицируемые риски */
+    .section_title_in_h2 {
+        width: 100%;
+    }
+    .section_subtitle {
+        margin-top: 15px;
+    }
+    /* Как работает наша компания */
+    .our_company-tittle h2 {
+        text-align: center;
+    }
+    /* ================================ HTML5-cotainer Инвестиционные прогрмаммы page ================================   */
+    /* ========== HTML-5 section  1 Инвест Трейд умножьте на два! start  ========== */
+    .hopeless-block {
+        max-width: 500px;
+    }
+}
+
+@media screen and (max-width: 768px), (max-height: 625px) {
+    /* header media */
+    .company-name {
+        display: none;
+    }
+    .invest-logo {
+        max-width: 150px;
+    }
+    .sign-btn, .call-btn {
+        height: 38px;
+        width: 140px;
+    }
+    .sign-btn button, .call-btnbutton {
+        font-size: 16px;
+    }
+    .sign-btn button::after {
+        height: 14px;
+        width: 14px;
+    }
+    .call-and-sign {
+        max-width: 500px;
+    }
+    /*   right  buttons */
+    .right {
+        display: none;
+    }
+    /*  section 1 Вкладывайте  деньги */
+    .invest-money-tittle h1 {
+        font-size: 30px;
+    }
+    .invest-money-container {
+        padding: 120px 0;
+    }
+    .invest-money-container {
+        margin-left: 0;
+    }
+    /* footer media */
+    footer {
+        position: relative;
+        margin-top: 25px;
+    }
+    /* section 2 Надежные инвестиции в  экономику */
+    .reliable-investment {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        margin-top: 70px;
+        padding-bottom: 70px;
+    }
+    .overflow-cards-block {
+        margin-top: 25px;
+        height: 380px;
+        max-width: 585px;
+    }
+    .reliable-investment-maney-cards-block {
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+        display: -webkit-inline-box;
+        display: -ms-inline-flexbox;
+        display: inline-flex;
+    }
+    .reliable-investment-range {
+        max-width: 185px;
+    }
+    .reliable-investment-info-range {
+        max-width: none;
+        margin-right: 0;
+    }
+    .img-ps-1, .img-ps-2, .img-ps-3, .img-ps-4, .img-ps-5, .img-ps-6, .img-ps-7 {
+        display: none;
+    }
+    .reliable-investment-range-chacked {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+            -ms-flex-direction: column-reverse;
+                flex-direction: column-reverse;
+        max-width: 350px;
+        padding-top: 25px;
+        margin: 0 auto;
+    }
+    .reliable-investment-range-container {
+        margin-bottom: 0;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    .chacked-tittle{
+      max-width: none;
+    }
+    .reliable-investment-chacked-container{
+        justify-content: center;
+    }
+    .reliable-investment-range{
+        margin-left: 0;
+    }
+    .range-tittle{
+        margin-bottom: 25px;
+    }
+    .reliable-investment-chacked-container {
+        margin-bottom: 30px
+    }
+    /* section 3 Тройная гарантия сохранности  и доходности инвестиций */
+    .guarantee_section-tittle {
+        max-width: none;
+        width: 100%;
+        padding-top: 120px;
+        margin-bottom: 25px;
+        text-align: center;
+    }
+    .guarantee_section_inner {
+        max-width: none;
+        width: 100%;
+        margin-top: 30px;
+        padding-bottom: 120px;
+    }
+    /* section 4 Как работает наша компания */
+    .our_company_work_cards:nth-child(2), .our_company_work_cards:nth-child(4) {
+        opacity: 0;
+        -webkit-transform: translateX(0%);
+        transform: translateX(0%);
+        -webkit-transition: 0.5s;
+        transition: 0.5s;
+    }
+    .our_company_work_cards:nth-child(3), .our_company_work_cards:nth-child(5) {
+        opacity: 0;
+        -webkit-transform: translateX(0%);
+        transform: translateX(0%);
+        -webkit-transition: 0.5s;
+        transition: 0.5s;
+    }
+    .our_company_work_content_block {
+        overflow: unset;
+        height: auto;
+        margin-bottom: 50px;
+    }
+    .container_in-block {
+        padding: 0;
+    }
+    .icon_11, .our_company_icon, .icon_24 {
+        display: none;
+    }
+    .section_container {
+        height: auto;
+    }
+    .container_in-block {
+        margin-top: 45px;
+    }
+    .container_in-block {
+        top: auto;
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+    }
+    .section_title {
+        position: static;
+    }
+    .section_title {
+        text-align: center;
+    }
+    /*section 5 Инвест Трейд - в интересах  инвесторов, в интересах страны*/
+    .invest_trade_interest_section .section_title {
+        width: 100%;
+    }
+    .invest_trade_interest {
+        height: auto;
+        overflow: unset;
+    }
+    .invest_trade_items {
+        width: 100%;
+    }
+    .section_container {
+        padding: 25px 15px;
+    }
+    .bezrysovaya_strategy_block {
+        padding-top: 5%;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center
+    }
+    .bezrysovaya_strategy_cards:first-child {
+        margin-bottom: 35px;
+        margin-right: 0;
+    }
+    .bezrysovaya_strategy_cards {
+        width: 100%;
+    }
+    .section_subtitle {
+        width: 100%;
+    }
+    /* section 7 Безрисковая стратегия Диверсифицируемые риски  */
+    .bezrysovaya_strategy-tittle h2 {
+        font-size: 25px;
+    }
+    /* footer */
+    #pagenext {
+        display: none;
+    }
+    /* ===============================================   Часто задаваемые вопросы F A Q  page  ===============================================  */
+    .frequently-tittle h1 {
+        text-align: center;
+    }
+    .submenu li p {
+        font-size: 13px;
+        max-width: 430px;
+    }
+    .accordion .link {
+        font-size: 15px;
+        min-height: 90px;
+        padding: 10px 40px 10px 55px;
+    }
+    .faq-icon-26 {
+        display: none;
+    }
+    .accordion .link::before {
+        font-size: 25px;
+    }
+    .questions-btn-block {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+    }
+    .about-questions {
+        margin-bottom: 40px;
+    }
+    .questions-btn-block {
+        margin-top: 30px;
+        margin-bottom: 40px;
+    }
+    .frequently-tittle {
+        padding-top: 20px;
+    }
+    .frequently-tittle h1 {
+        font-size: 22px;
+    }
+    .frequently-components {
+        margin-top: 35px;
+    }
+    /* =============================================== О нас page  ===============================================  */
+    /*   about us   В помощь вашей  семье и бизнесу  section 1  */
+    .about-us-help-tittle {
+        margin-top: 130px;
+    }
+    .about-us-help-btn {
+        margin-bottom: 45px;
+    }
+    /* ========== HTML-5 section 3 Легальность и открытость   ========== */
+    .legality-openness {
+        margin-bottom: 35px;
+    }
+    .legaliti-big-icon {
+        display: none;
+    }
+    /* ========== HTML-5 section 4 Надежность и безопасность  ==========  */
+    .container-reliability-safety {
+        padding: 25px 0
+    }
+    /* HTML-5 section 5 Наша команда start  */
+    .our-comand-cnt {
+        padding: 25px 0;
+    }
+    .our-comand-tittle {
+        margin-bottom: 40px;
+        text-align: center;
+        font-size: 27px;
+    }
+    /* ========== HTML-5 section 5 Наша команда start ========== */
+    .overflow-comands {
+        overflow: visible;
+        height: auto;
+    }
+    .comand-block {
+        max-width: 280px;
+        min-height: 0;
+        padding: 15px;
+    }
+    .comand-info {
+        max-width: 160px;
+    }
+    .comand-name {
+        margin-bottom: 10px;
+    }
+    .about-user, .comand-name {
+        font-size: 10px;
+    }
+    .comand-img {
+        width: 80px;
+        height: 80px;
+    }
+   
+    /* ========== HTML-5 section 3 Легальность и открытость  start ==========  */
+    .interests-investors-cnt {
+        padding: 35px 0;
+    }
+    .interests-tittle {
+        padding-bottom: 20px;
+    }
+    .interests-info {
+        padding-bottom: 20px;
+    }
+    .investors-parts {
+        padding: 15px 0;
+    }
+    .investors-parts ul li {
+        margin: 10px 0;
+    }
+    .investors-inf-all{
+        padding-right: 0
+    }
+    /* ========== HTML-5 section 7 Безрисковая стратегия Диверсифицируемые риски start ========== */
+    .obout-us .bezrysovaya_strategy-tittle-about {
+        text-align: center;
+        width: 100%;
+    }
+    .obout-us .bezrysovaya_strategy-tittle {
+        width: 100%;
+        max-width: none;
+        ;
+    }
+    .obout-us .section_subtitle {
+        max-width: none;
+        text-align: center;
+        margin-top: 25px;
+    }
+    .obout-us .bezrysovaya_strategy_cards_ul_block li:last-child, .obout-us .bezrysovaya_strategy_cards_ul_block li:nth-child(2) {
+        display: block;
+    }
+    .obout-us .bezrysovaya_strategy_cards_ul_block li:last-child {
+        margin-bottom: 0;
+    }
+    .obout-us .bezrysovaya_strategy_cards:first-child {
+        margin-bottom: 15px
+    }
+    .bezrysovaya_strategy-passive {
+        margin-bottom: 35px;
+    }
+    .obout-us .bezrysovaya_strategy_btn_subtitle {
+        font-size: 27px;
+        text-align: center;
+    }
+    .obout-us .bezrysovaya_strategy_btn {
+        margin: 30px auto;
+    }
+    /* ================================ HTML5-cotainer Инвестиционные прогрмаммы page ================================   */
+    /* ========== HTML-5 section  1 Инвест Трейд умножьте на два! start  ========== */
+    .trade-grow-cnt {
+        padding-top: 120px;
+        padding-bottom: 40px;
+    }
+    /* ========== HTML-5 section  2 Инвест Трейд: надежнее, чем дома, выгоднее чем в банке start  ========== */
+    .invest-hopeless-cnt {
+        padding: 35px 0;
+    }
+    .invest-hopeless-tittle h3 {
+        font-size: 27px;
+        text-align: center;
+    }
+    .invest-hopeless-tittle span {
+        font-size: 24px;
+        text-align: center;
+        padding-bottom: 30px;
+        display: block;
+    }
+    .diagrams-info {
+        font-size: 11px;
+    }
+    .hopeless-diagram-cnt {
+        -webkit-box-align: end;
+            -ms-flex-align: end;
+                align-items: end;
+    }
+    /* ===============================================  Инвестиционные прогрмаммы page  section ===============================================  */
+    /* ========== HTML-5 section 3 Алгоритм создания высокого дохода  start ==========  */
+    .algoritm-crate {
+        padding: 45px 0;
+    }
+    .ovrfl-algoritms{
+        overflow: unset;
+        height: 100%;
+        
+    }
+    .algoritm-crate-tittle {
+        text-align: center;
+        padding: 35px 0;
+    }
+    .algoritm-block:first-child, .algoritm-block:last-child {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .algoritm-block:nth-child(2) {
+        padding-right: 0;
+    }
+    .algoritm-img {
+        margin-bottom: 25px;
+    }
+    .algoritm-block {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        margin: 25px 0;
+    }
+    .about-algoritm {
+        margin-left: 0;
+    }
+
+    /*  news page */
+    .news-page-tittle h3 {
+        font-size: 20px;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .news-page-tittle p{
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width: 600px) {
+    /* footer media  */
+    .footer-container {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+    .company {
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        margin-top: 5px;
+    }
+    .web-pages ul li:last-child a {
+        margin-right: 0;
+        ;
+    }
+    footer {
+        min-height: 110px;
+    }
+    .logo_block {
+        width: 300px;
+        height: 300px;
+    }
+    .logo_block img {
+        width: 120px;
+    }
+    /* section 2 Надежные инвестиции в  экономику */
+    .overflow-cards-block {
+        max-width: 300px;
+    }
+    /* section 4 Как работает наша компания */
+    .our_company_work_cards:nth-child(2), .our_company_work_cards:nth-child(3) {
+        top: 0;
+    }
+    .our_company_work_cards:nth-child(5), .our_company_work_cards:nth-child(4) {
+        bottom: 0;
+    }
+    .our_company_work_content_block {
+        max-width: 1000px;
+    }
+    /* section 7 Безрисковая стратегия Диверсифицируемые риски  */
+    .bezrysovaya_strategy-tittle-about, .bezrysovaya_strategy_btn_subtitle {
+        text-align: center;
+    }
+    .bezrysovaya_strategy_btn {
+        margin: 15px auto;
+    }
+    /* =============================================== О нас page  ===============================================  */
+    /* invest portfolio  Инвестиционный портфель section 2 */
+    .invest-portfolio-tittle {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 576px) {
+    /* header media */
+    .disp-non {
+        display: block;
+    }
+    .logo-img {
+        max-width: 70px;
+    }
+    .invest-logo {
+        max-width: 90px;
+    }
+    .tooltip, .closer {
+        right: 20px;
+    }
+    .tooltip {
+        width: 30px;
+    }
+    .tooltip span {
+        margin: 3px;
+        height: 2px;
+    }
+    /* section 3 Тройная гарантия сохранности  и доходности инвестиций  */
+    .guarantee_section-tittle {
+        padding-top: 60px;
+    }
+    .guarantee_section_inner {
+        padding-bottom: 60px;
+    }
+    /* section 4 Как работает наша компания */
+    .our_company_work_cards_content_text p {
+        font-size: 14px;
+    }
+    /* section 6 Почему Инвест Трейд лучше  любого банка */
+    .invest_trade_better_items {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+        margin-bottom: 25px;
+    }
+    .section_title {
+        font-size: 25px;
+    }
+    .invest_trade_better_img_block {
+        margin-right: 0;
+        margin-bottom: 25px;
+        width: 100%;
+        margin-right: 0;
+    }
+    /*section 5 Инвест Трейд - в интересах  инвесторов, в интересах страны*/
+    .invest_trade_items {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+    .our_company-tittle h2 {
+        font-size: 28px;
+        text-align: center;
+    }
+    .invest_trade_tittle h2, .invest_trade-best-tittle h2 {
+        font-size: 24px;
+        text-align: center;
+    }
+    .invest_trade_items {
+        margin-bottom: 25px;
+    }
+    .section_subtitle, .section_title_in_h2 {
+        width: 100%;
+    }
+    .our_company_work_cards_content_text {
+        padding-left: 60px;
+    }
+    .our_company_work_cards_content_text p {
+        font-size: 11px;
+    }
+    /* modal */
+    .modal-cards {
+        width: 270px;
+    }
+    /* ===============================================   Часто задаваемые вопросы F A Q  page  ===============================================  */
+    .submenu li p {
+        max-width: 250px;
+    }
+    /* ===============================================  Новости и акции page  ===============================================  */
+    .news-cards {
+        width: 280px;
+        height: 530px;
+    }
+    .news-img {
+        width: 280px;
+        height: 200px;
+    }
+    .news-tittle p:first-child {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .news-tittle p:last-child {
+        font-size: 11px;
+    }
+    .about-news {
+        font-size: 15px;
+    }
+    /* =============================================== О нас page  ===============================================  */
+    /*   about us   В помощь вашей  семье и бизнесу  section 1  */
+    .about-us-help-cnt {
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+    }
+    .about-us-help-tittle h1 {
+        font-size: 33px;
+        text-align: center;
+    }
+    .about-us-help-inf {
+        font-size: 16px;
+        text-align: center;
+    }
+    /* ========== HTML-5 section 3 Легальность и открытость  start ==========  */
+    .legality-tittle, .invest-portfolio-tittle, .about-us-help-tittle {
+        font-size: 27px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .about-legality {
+        font-size: 17px;
+        text-align: center;
+    }
+    .legality-overflow {
+        max-width: 200px;
+        ;
+    }
+    .legality-overflow::-webkit-scrollbar-thumb {
+        width: 70px;
+        
+    }
+    /* ========== HTML-5 section 4 Надежность и безопасность start ==========  */
+    .reliability-safety-tittle {
+        font-size: 27px;
+        text-align: center;
+    }
+    /* ========== HTML-5 section 3 Легальность и открытость  start ==========  */
+    .interests-tittle, .interests-info, .investors-information, .author {
+        text-align: center;
+    }
+    /* ================================ HTML5-cotainer Инвестиционные прогрмаммы page ================================   */
+    /* ========== HTML-5 section  1 Инвест Трейд умножьте на два! start  ========== */
+    .trade-grow-tittle h1 {
+        font-size: 27px;
+        text-align: center;
+    }
+    .trade-grow-inf p {
+        text-align: center;
+    }
+    .trade-grow-inf ul {
+        max-width: 260px;
+        margin: 0 auto;
+    }
+    .trade-grow-btn {
+        margin: 25px auto;
+    }
+    /* ========== HTML-5 section 3 Алгоритм создания высокого дохода  start ==========  */
+    .algoritm-crate-tittle {
+        font-size: 27px;
+        margin-bottom: 0;
+    }
+    .about-algoritm span, .about-algoritm p, .algoritm_ul-cmp ul li {
+        font-size: 15px;
+    }
+    .algoritm_ul-blok {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+}
+
+@media (max-height: 340px) {
+    .mySidenav ul li {
+        padding: 10px 0;
+    }
+    .call-disp-none {
+        margin-top: 5px;
+    }
+}
